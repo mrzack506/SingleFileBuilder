@@ -1,4 +1,5 @@
 #CREATED BY KIWAN
+# ALL RIGHTS RESERVED SON!
 import exceptions, os, binascii, ast
 
 class ProjectBuilder:
